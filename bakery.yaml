@@ -1,0 +1,6 @@
+commit: HEAD
+process_files: [SnowburstOne-Regular.ttf.ttx, src/SnowburstOne-Regular.otf.ttx, src/SnowburstOne-Regular_otf.sfd,
+  src/SnowburstOne-Regular_ttf.sfd]
+pyftsubset: --notdef-outline --name-IDs=* --hinting
+subset: [latin]
+ttfautohint: -l 7 -r 28 -G 50 -x 13 -w "G"

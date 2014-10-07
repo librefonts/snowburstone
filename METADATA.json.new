@@ -1,0 +1,42 @@
+{
+  "name": "Snowburst One",
+  "designer": "Annet Stirling",
+  "license": "OFL",
+  "visibility": "Sandbox",
+  "category": "Display",
+  "size": 46962,
+  "fonts": [
+    {
+      "name": "Snowburst One",
+      "style": "normal",
+      "weight": 400,
+      "filename": "SnowburstOne-Regular_ttf.ttf",
+      "postScriptName": "SnowburstOne-Regular",
+      "fullName": "Snowburst One",
+      "copyright": "Copyright (c) 2011-2012, Sorkin Type Co (www.sorkintype.com)\nwith Reserved Font Name 'Snowburst'"
+    },
+    {
+      "name": "Snowburst One",
+      "style": "normal",
+      "weight": 400,
+      "filename": "SnowburstOne-Regular.ttf",
+      "postScriptName": "SnowburstOne-Regular",
+      "fullName": "SnowburstOne-Regular",
+      "copyright": "Copyright (c) 2011-2012, Sorkin Type Co (www.sorkintype.com)\rwith Reserved Font Name 'Snowburst'"
+    },
+    {
+      "name": "Snowburst One",
+      "style": "normal",
+      "weight": 400,
+      "filename": "SnowburstOne-Regular_otf.ttf",
+      "postScriptName": "SnowburstOne-Regular",
+      "fullName": "SnowburstOne-Regular",
+      "copyright": "Copyright (c) 2011-2012, Sorkin Type Co (www.sorkintype.com)\rwith Reserved Font Name 'Snowburst'"
+    }
+  ],
+  "subsets": [
+    "latin",
+    "menu"
+  ],
+  "dateAdded": "2012-11-26"
+}
